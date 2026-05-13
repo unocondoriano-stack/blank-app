@@ -1,0 +1,24 @@
+{
+    "students": {
+        "MArk Justin E. PAngilinan": {
+            "lambda": 0,
+            "bonus": 5,
+            "shielded": false,
+            "cooldown": false
+        },
+        "Theoden Thomas": {
+            "lambda": 25,
+            "bonus": 0,
+            "shielded": false,
+            "cooldown": true
+        },
+        "Ricardo Dalisay": {
+            "lambda": 0,
+            "bonus": 0,
+            "shielded": false,
+            "cooldown": false
+        }
+    },
+    "phase": 1,
+    "slots_left": 9
+}
